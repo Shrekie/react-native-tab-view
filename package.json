@@ -56,7 +56,7 @@
     "react-dom": "16.5.0",
     "react-native": "~0.57.1",
     "react-native-gesture-handler": "^1.0.15",
-    "react-native-reanimated": "^1.0.0-alpha.12",
+    "react-native-reanimated": "https://github.com/Shrekie/react-native-reanimated.git",
     "release-it": "^10.1.0",
     "typescript": "^3.3.4000"
   },
