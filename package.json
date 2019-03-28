@@ -64,7 +64,7 @@
     "react": "*",
     "react-native": "*",
     "react-native-gesture-handler": "*",
-    "react-native-reanimated": "*"
+    "react-native-reanimated": "https://github.com/Shrekie/react-native-reanimated"
   },
   "husky": {
     "hooks": {
